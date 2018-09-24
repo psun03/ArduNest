@@ -23,7 +23,7 @@ Here are some goals for the project.
 
 # Files
 Arduino INO File: <br/>
-AruNest.ino - This file is the logic behind the AruNest. This handles the buttons events, displays information on the LCD, and sends requests to the remote server.
+ArduNest.ino - This file is the logic behind the ArduNest. This handles the buttons events, displays information on the LCD, and sends requests to the remote server.
 
 Libriries Used:
 - LCDKeypad - https://github.com/dzindra/LCDKeypad/releases/tag/v1.1.0
