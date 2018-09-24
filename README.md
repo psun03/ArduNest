@@ -1,6 +1,6 @@
-# AruNest - The Arduino Remote Thermostat for Nest
-Code for AruNest .ino and server side PHP scripts
-AruNest is an Arduino enabled Nest thermostat controller. The arduino device wirelessly connects to a remote server to retrieve the current/target temperature and displays it on the LCD screen. The temperature can be modified by the Arduino by physical buttons.
+# ArduNest - The Arduino Remote Thermostat for Nest
+Code for ArduNest .ino and server side PHP scripts
+ArduNest is an Arduino enabled Nest thermostat controller. The arduino device wirelessly connects to a remote server to retrieve the current/target temperature and displays it on the LCD screen. The temperature can be modified by the Arduino by physical buttons.
 
 # Goals
 Here are some goals for the project.
